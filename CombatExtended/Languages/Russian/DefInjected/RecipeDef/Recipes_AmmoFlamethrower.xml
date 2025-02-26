@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: make jellied chemfuel x100 -->
+	<MakeAmmo_Flamethrower_Napalm.label>Изготовить загущённый напалм (x100)</MakeAmmo_Flamethrower_Napalm.label>
+	<!-- EN: Craft 100 units of jellied chemfuel. -->
+	<MakeAmmo_Flamethrower_Napalm.description>Изготовить загущённый напалм.</MakeAmmo_Flamethrower_Napalm.description>
+	<!-- EN: Making jellied chemfuel. -->
+	<MakeAmmo_Flamethrower_Napalm.jobstring>Изготавливает загущённый напалм</MakeAmmo_Flamethrower_Napalm.jobstring>
+
+	<!-- EN: make bioferrite-infused chemfuel x100 -->
+	<MakeAmmo_Flamethrower_Bioferrite.label>Изготовить загущённый биоферритовый напалм (x100)</MakeAmmo_Flamethrower_Bioferrite.label>
+	<!-- EN: Craft 100 units of bioferrite-infused chemfuel. -->
+	<MakeAmmo_Flamethrower_Bioferrite.description>Изготовить загущённый биоферритовый напалм.</MakeAmmo_Flamethrower_Bioferrite.description>
+	<!-- EN: Making bioferrite-infused chemfuel. -->
+	<MakeAmmo_Flamethrower_Bioferrite.jobstring>Изготавливает загущённый биоферритовый напалм</MakeAmmo_Flamethrower_Bioferrite.jobstring>
+
+	<!-- EN: make jellied prometheum x100 -->
+	<MakeAmmo_Flamethrower_Prometheum.label>Изготовить загущённый прометий (x100)</MakeAmmo_Flamethrower_Prometheum.label>
+	<!-- EN: Craft 100 units of jellied prometheum. -->
+	<MakeAmmo_Flamethrower_Prometheum.description>Изготовить загущённый прометий.</MakeAmmo_Flamethrower_Prometheum.description>
+	<!-- EN: Making jellied prometheum. -->
+	<MakeAmmo_Flamethrower_Prometheum.jobstring>Изготавливает загущённый прометий</MakeAmmo_Flamethrower_Prometheum.jobstring>
+
+</LanguageData>
